@@ -1,4 +1,4 @@
-# Itamar Laredo 311547087
+# Itamar Laredo
 # search.py
 # ---------
 # Licensing Information:  You are free to use or extend these projects for

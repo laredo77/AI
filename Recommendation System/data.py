@@ -1,4 +1,4 @@
-# Itamar Laredo, 311547087
+# Itamar Laredo
 import sys
 import matplotlib.pyplot as plt
 import seaborn as sns

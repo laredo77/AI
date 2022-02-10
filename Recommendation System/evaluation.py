@@ -1,4 +1,4 @@
-# Itamar Laredo, 311547087
+# Itamar Laredo
 import math
 from sklearn.metrics import mean_squared_error
 from math import sqrt

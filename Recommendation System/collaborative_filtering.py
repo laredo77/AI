@@ -1,4 +1,4 @@
-# Itamar Laredo, 311547087
+# Itamar Laredo
 import math
 import sys
 import pandas as pd

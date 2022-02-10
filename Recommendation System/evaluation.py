@@ -2,7 +2,6 @@
 import math
 from sklearn.metrics import mean_squared_error
 from math import sqrt
-# Import Pandas
 import pandas as pd
 
 def precision_10(test_set, cf, is_user_based=True):
